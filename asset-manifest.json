@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/increment-decrement/static/css/main.d61b2092.chunk.css",
+    "main.js": "/increment-decrement/static/js/main.0dea20d9.chunk.js",
+    "main.js.map": "/increment-decrement/static/js/main.0dea20d9.chunk.js.map",
+    "runtime-main.js": "/increment-decrement/static/js/runtime-main.24d1b270.js",
+    "runtime-main.js.map": "/increment-decrement/static/js/runtime-main.24d1b270.js.map",
+    "static/css/2.11829350.chunk.css": "/increment-decrement/static/css/2.11829350.chunk.css",
+    "static/js/2.d306cb98.chunk.js": "/increment-decrement/static/js/2.d306cb98.chunk.js",
+    "static/js/2.d306cb98.chunk.js.map": "/increment-decrement/static/js/2.d306cb98.chunk.js.map",
+    "index.html": "/increment-decrement/index.html",
+    "precache-manifest.7df337405cc3ce912daed11b5aabaccf.js": "/increment-decrement/precache-manifest.7df337405cc3ce912daed11b5aabaccf.js",
+    "service-worker.js": "/increment-decrement/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/increment-decrement/static/css/2.11829350.chunk.css.map",
+    "static/css/main.d61b2092.chunk.css.map": "/increment-decrement/static/css/main.d61b2092.chunk.css.map",
+    "static/js/2.d306cb98.chunk.js.LICENSE.txt": "/increment-decrement/static/js/2.d306cb98.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24d1b270.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.d306cb98.chunk.js",
+    "static/css/main.d61b2092.chunk.css",
+    "static/js/main.0dea20d9.chunk.js"
+  ]
+}
